@@ -88,7 +88,7 @@ This project analyzes sales performance and trends.
   
 ---
 
-## 📷 Dashboard Preview
+## 📷 Dashboard Preview.png
 
 ![Dashboard Preview](https://github.com/VaminetAgunwa/sales-data-analysis-excel/blob/main/image/dashboard_preview.png)
 
@@ -96,15 +96,16 @@ This project analyzes sales performance and trends.
 
 ## 📌 Conclusion
 
-This project demonstrates the ability to clean real-world messy data, perform structured analysis, and present insights in a clear, business-focused dashboard.
+This project demonstrates the ability to clean real world messy data, perform structured analysis, and present insights in a clear, business focused dashboard.
 
 ---
 
 ## 🔗 Project Files
 
+* Raw Dataset
 * Cleaned Dataset
 * Excel Dashboard File
-* Raw Dataset
+* Dashboard Preview.png
 
 ---
 
