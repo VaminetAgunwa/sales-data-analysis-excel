@@ -76,6 +76,18 @@ An interactive Excel dashboard was created with:
 
 ---
 
+---
+
+## 🚀 Project Overview
+This project analyzes sales performance and trends.
+
+## 📂 Project Files
+- 📁 [Raw Dataset](https://github.com/VaminetAgunwa/sales-data-analysis-excel/blob/main/data/Raw%20record%20sales%20data.csv)
+- 📁 [Cleaned Dataset](https://github.com/VaminetAgunwa/sales-data-analysis-excel/blob/main/data/Cleaned%20record%20sales%20data.csv)
+- 📊 [Dashboard_preview.png](https://github.com/VaminetAgunwa/sales-data-analysis-excel/blob/main/image/dashboard_preview.png)
+  
+---
+
 ## 📷 Dashboard Preview
 
 ![Dashboard Preview](https://github.com/VaminetAgunwa/sales-data-analysis-excel/blob/main/image/dashboard_preview.png)
