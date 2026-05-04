@@ -1,0 +1,27 @@
+Order_ID,Order Date,Order Month,Ship_Date,Customer Name,Region,Product,Column1,Category,Quantity,Quantity Status,Unit Price,Total Sales,Payment Method,Status
+1004,1/8/2023,Jan,1/8/2023,Jane Lee,SOUTH,Headphones,Headphones,Electronics,5,Sold,50,250,Credit Card,Completed
+1008,1/11/2023,Jan,1/11/2023,Sarah Connor,SOUTH,Tablet,Tablet,Electronics,2,Sold,300,600,Credit Card,Completed
+1010,1/13/2023,Jan,1/13/2023,Mary Johnson,EAST,Phone,Phone,Electronics,1,Sold,500,500,Cash,Completed
+1011,1/14/2023,Jan,1/14/2023,David Smith,NORTH,Tablet,Tablet,Electronics,2,Sold,300,600,Debit Card,Completed
+1012,1/15/2023,Jan,1/15/2023,Jane Lee,SOUTH,Headphones,Headphones,Electronics,50,Sold,50,250,Credit Card,Completed
+1013,1/16/2023,Jan,1/16/2023,Chris Brown,WEST,Laptop,Laptop,Electronics,1,Sold,850,850,Credit Card,Completed
+1014,1/17/2023,Jan,1/17/2023,Mary Johnson,EAST,Phone,Phone,Electronics,1,Sold,500,500,Cash,Completed
+1015,1/18/2023,Jan,1/18/2023,David Smith,NORTH,Tablet,Tablet,Electronics,2,Sold,300,600,Debit Card,Pending
+1016,1/19/2023,Jan,1/19/2023,Jane Lee,SOUTH,Headphones,Headphones,Electronics,3,Sold,50,150,Credit Card,Completed
+1017,1/20/2023,Jan,1/20/2023,Chris Brown,WEST,Laptop,Laptop,Electronics,1,Sold,850,850,Credit Card,Completed
+1018,1/21/2023,Jan,1/21/2023,Michael Scott,NORTH,Tablet,Tablet,Electronics,2,Sold,300,600,Debit Card,Completed
+1019,1/22/2023,Jan,1/22/2023,Sarah Connor,SOUTH,Phone,Phone,Electronics,1,Sold,500,500,Cash,Completed
+1020,1/23/2023,Jan,1/23/2023,John Doe,WEST,Laptop,Laptop,Electronics,2,Sold,850,1700,Credit Card,Completed
+1021,1/24/2023,Jan,1/24/2023,Mary Johnson,EAST,Phone,Phone,Electronics,1,Sold,500,500,Cash,Completed
+1022,1/25/2023,Jan,1/25/2023,David Smith,NORTH,Tablet,Tablet,Electronics,2,Sold,300,600,Debit Card,Completed
+1023,1/26/2023,Jan,1/26/2023,Jane Lee,SOUTH,Headphones,Headphones,Electronics,3,Sold,50,150,Credit Card,Completed
+1024,1/27/2023,Jan,1/27/2023,Chris Brown,WEST,Laptop,Laptop,Electronics,1,Sold,850,850,Credit Card,Completed
+1025,1/28/2023,Jan,1/28/2023,Michael Scott,NORTH,Tablet,Tablet,Electronics,2,Sold,300,600,Debit Card,Completed
+1026,1/29/2023,Jan,1/29/2023,Sarah Connor,SOUTH,Phone,Phone,Electronics,1,Sold,500,500,Cash,Completed
+1001,5/1/2023,May,5/1/2023,John Doe,WEST,Laptop,Laptop,Electronics,2,Sold,850,1700,Credit Card,Completed
+1002,6/1/2023,Jun,6/1/2023,Mary Johnson,EAST,Phone,Phone,Electronics,1,Sold,500,500,Cash,Completed
+1003,7/1/2023,Jul,7/1/2023,David Smith,NORTH,Tablet,Tablet,Electronics,3,Sold,300,900,Debit Card,Pending
+1005,9/1/2023,Sep,9/1/2023,Chris Brown,WEST,Laptop,Laptop,Electronics,1,Sold,850,850,Not Specified,Completed
+1006,10/1/2023,Oct,10/1/2023,Unknown,EAST,Phone,Phone,Electronics,2,Sold,500,1000,Cash,Cancelled
+1007,11/1/2023,Nov,11/1/2023,Michael Scott,NORTH,Unknown,Unknown,Electronics,1,Sold,300,300,Debit Card,Completed
+1009,12/1/2023,Dec,12/1/2023,John Doe,WEST,Laptop,Laptop,Electronics,-1,Returned,850,-850,Credit Card,Returned
