@@ -78,7 +78,7 @@ An interactive Excel dashboard was created with:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](your-image-link-here)
+![Dashboard Preview](https://github.com/VaminetAgunwa/sales-data-analysis-excel/blob/main/image/dashboard_preview.png)
 
 ---
 
